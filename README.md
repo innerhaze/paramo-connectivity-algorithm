@@ -4,4 +4,4 @@ This code is specifically designed for research on páramo ecosystems, aiming to
 
 To view the **R** code and detailed instructions, visit:
 
-[See the Code and Instructions](https://innerhaze.github.io/R-Algorithm-for-Historical-Connectivity-Analysis-of-Paramo-Lineages-in-the-Pleistocene/)
+[See the Code and Instructions](https://innerhaze.github.io/paramo-connectivity-algorithm/)
